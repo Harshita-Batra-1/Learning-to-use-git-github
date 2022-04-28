@@ -1,4 +1,4 @@
-# Learning-to-use-git-github
+# Learn-to-use-git-github
 Setting up the git client; 
 Setting up GitHub Account; 
 Program to generate logs; 
